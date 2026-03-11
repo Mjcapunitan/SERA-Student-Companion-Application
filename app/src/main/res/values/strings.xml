@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Sera</string>
+    <string name="no_schedule_set">No schedule set</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="room">Room</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="color">Color</string>
+    <string name="add">Add</string>
+    <string name="subject">Subject</string>
+    <string name="virtual_meet_link">Virtual Meet Link</string>
+    <string name="join">Join</string>
+    <string name="schedule">Schedule</string>
+    <string name="edit_subject">Edit Subject</string>
+    <string name="subject_info">Subject Info</string>
+    <string name="timetable">Timetable</string>
+    <string name="no_classes_left">No classes left</string>
+    <string name="all_classes_done">All today\'s classes are done.</string>
+    <string name="no_classes_today">No classes scheduled for today</string>
+    <string name="list">List</string>
+    <string name="right_now">Right now</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="see_more">See more</string>
+    <string name="see_less">See less</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_evening">Good Evening</string>
+    <string name="you_don_t_have_anything_scheduled_for_today">You don\'t have anything scheduled for today!</string>
+    <string name="classes">Classes</string>
+    const val REMINDER = "reminder"
+
+    <string name="are_you_sure_you_want_to_delete_this_subject">Are you sure you want to delete this subject?</string>
+    <string name="subjects">Subjects</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="CD_back">Back</string>
+    <string name="CD_add_subject">Add subject</string>
+    <string name="CD_save_subject">Save subject</string>
+    <string name="CD_edit_subject">Edit subject</string>
+    <string name="CD_delete_schedule">Delete schedule</string>
+    <string name="CD_add_schedule">Add schedule</string>
+    <string name="CD_delete_subject">Delete subject</string>
+    <string name="no_subjects_yet">No subjects yet</string>
+    <string name="no_summaries_yet">No summaries yet</string>
+    <string name="preference_file_key">preferences</string>
+    <string name="this_field_is_required">This field is required.</string>
+    <string name="no_notes_yet">No notes yet</string>
+
+    <string name="add_note">Add Note</string>
+    <string name="CD_add_note">Add note</string>
+</resources>
